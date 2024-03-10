@@ -1,5 +1,5 @@
 # Python para Automação de Tarefas - Conteúdo do Canal Hashtah Programação
-    Projeto de automação de preenchimento de formulários online em python
+- Projeto de automação de preenchimento de formulários online em python
 
 ## Roteiro:
 - **Abrir o navegador**
